@@ -1,0 +1,20 @@
+<config>
+  <!-- Folding Slot Configuration -->
+  <gpu v='true'/>
+
+  <!-- Slot Control -->
+  <power v='light'/>
+
+  <!-- User Information -->
+  <user v='Anonymous'/>
+  <team v='0'/>
+  <passkey v=''/>
+
+  <!-- Folding Slots -->
+
+  <slot id='0' type='CPU'/>
+  <slot id='1' type='GPU'/>
+  <cpus v='2'/>
+
+</config>
+
