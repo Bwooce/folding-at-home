@@ -1,6 +1,6 @@
 # Folding@home
 #
-VERSION               0.1
+# VERSION               0.1
 # Run with: docker run -d -v <path_to_config_xml>:/config:ro bwooce/folding-at-home
 # Inspired by magglass1/docker-folding-at-home and
 # Inspired by jordan0day/docker-folding-at-home
